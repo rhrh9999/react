@@ -1,5 +1,6 @@
 import React, {useState} from "react";
 import './PassingCount.css';
+import './pass';
 
 const FirstChild=(props)=>{
     console.log(`자식1 ${props.data}`);
